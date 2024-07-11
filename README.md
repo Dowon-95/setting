@@ -1,7 +1,7 @@
 # 코멘토
 1주차 - 스프링 개발환경 구축
 
-1. IntelliJ 설치
-2. Debeaver 설치 & DBConnection
-3. Spring MVC 환경설정 & API PING
-4. datasource & mybatis 연동
+1. Github 계정생성
+2. JDK/Tomcat/mybatis/ Intellij Community설치
+3.  mybatis 설치
+4. 스프링환경구축VS 스프링부트환경구축비교해보기
