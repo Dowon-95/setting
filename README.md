@@ -24,7 +24,7 @@
     - DB 실행을 위한 DAO / Controller / Service 코드 작성
     - 설정후 구동
   
-
+---
 
 ### 2️⃣ 2주차
 
@@ -47,3 +47,32 @@
   1. HTTP 통신에 관하여
   2. 브라우저에 URL을 입력후 요청하여 서버에서 응답하는 과정에 관하여
   3. Rest API 에 관하여
+
+ ---
+ 
+### 3️⃣ 3주차
+
+***스프링 부트 개발환경 구축***
+
+- SPRING
+  - project : MAVEN
+  - Language : java
+  - SpringBoot : 3.3.2
+  - Java : 17
+  - dependencies
+    - lombok
+    - Spring web
+    - spring boot devTools
+- maven project 로 기본환경구축
+- DBeaver 에 통계 API를 위해 DB, TABLE 생성
+- 스프링부트, Mybatis, mariaDB 연동
+
+
+***SW활용 현황 통계 API 구축을 위한 SQL 작성***
+
+1. 월별 접속자 수
+2. 일자별 접속자 수
+3. 평균 하루 로그인 수
+4. 휴일을 제외한 로그인수 (해당 문서에는 휴일 포함)
+    * API 구축시 추가구현 필요
+5. 부서별 월별 로그인 수
